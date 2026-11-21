@@ -24,10 +24,6 @@ The **Hotel Room Booking System** is a Java application designed to simulate fro
 
 ## 📄 Project Documentation
 - **Interim Report (PDF):** [Nitin-kumar_10909.pdf](./Nitin-kumar_10909.pdf)
-- **Cover Page Preview:**  
-  <p align="center">
-    <img src="./Nitin-kumar_Cover_Page.png" alt="Cover Page" width="550" />
-  </p>
 
 ---
 
@@ -52,6 +48,6 @@ The **Hotel Room Booking System** is a Java application designed to simulate fro
 ---
 
 ## 📂 Project Roadmap
-- [x] Interim Project Report & Documentation
+- [x] Interim Project Report & Documentation (`Nitin-kumar_10909.pdf`)
 - [ ] Source Code Implementation (`src/`)
 - [ ] Project Presentation Slide Deck (`PPT/`)
